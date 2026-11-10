@@ -27,7 +27,7 @@
   - [📊 Commercial SaaS Comparison Matrix](#-commercial-saas-comparison-matrix)
   - [🔍 SaaS Platform Deep Dives](#-saas-platform-deep-dives)
 - [🟩 Open-Source Software](#-open-source-software)
-  - [⭐ Open-Source Solutions by Star Count](#-open-source-solutions-by-star-count)
+  - [⭐ Open-Source Solutions by Stars_Count](#-open-source-solutions-by-star-count)
   - [🔬 Open-Source Project Deep Dives](#-open-source-project-deep-dives)
 - [⚖️ Feature Comparison Matrix](#️-feature-comparison-matrix)
 - [📈 Star History](#-star-history)
@@ -111,11 +111,11 @@ Commercial, cloud-hosted Security, Compliance, and Customer Trust Center platfor
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Security, Compliance, and Trust Center software. Sorted in descending order by GitHub stargazers count. Beside each project name, the social star badge links directly to that repository's stargazers page.
+Self-hosted, community-driven Security, Compliance, and Trust Center software. Sorted in descending order by GitHub stargazers count. Beside each project name, the social Stars_Badge links directly to that repository's stargazers page.
 
-### ⭐ Open-Source Solutions by Star Count
+### ⭐ Open-Source Solutions by Stars_Count
 
-| Rank | Project & Star Badge | Stack | Primary Focus | License |
+| Rank | Project & Stars_Badge | Stack | Primary Focus | License |
 | :---: | :--- | :--- | :--- | :--- |
 | **1** | **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) | Go / Rego ⚙️ | Cloud-Native Policy-as-Code & Compliance Enforcement | Apache-2.0 |
 | **2** | **[ComplianceAsCode / Content](https://github.com/ComplianceAsCode/content)** [![Stars](https://img.shields.io/github/stars/ComplianceAsCode/content?style=social&color=white)](https://github.com/ComplianceAsCode/content/stargazers) | Python / SCAP 🐍 | Automated Security Benchmarks (NIST, CIS, DISA STIG) | LGPL-2.1 |
@@ -259,7 +259,7 @@ Contributions are warmly welcomed! If you maintain or use an open-source securit
 
 1. Fork this repository.
 2. Add your entry under the appropriate section following alphabetical or star-count sorting guidelines.
-3. Include the project's repository URL, tech stack, license, star badge, and primary value proposition.
+3. Include the project's repository URL, tech stack, license, Stars_Badge, and primary value proposition.
 4. Submit a Pull Request with a clear description of why the tool stands out.
 
 Please ensure that open-source submissions are actively maintained (commits or releases within the past 12 months) and carry an established open-source license.
